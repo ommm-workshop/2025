@@ -6,7 +6,7 @@ body, h1, h2, h3, p, ul {
   
   body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    background-color: #ebeef1;
+    background-color: #e8e8e9;
     color: #2c2c2c;
     line-height: 1.6;
     padding: 2rem;
@@ -23,7 +23,7 @@ body, h1, h2, h3, p, ul {
   
   h1 {
     font-size: 2rem;
-    border-bottom: 2px solid #343637;
+    border-bottom: 1px solid #343637;
     padding-bottom: 0.5rem;
   }
   
