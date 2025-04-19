@@ -58,3 +58,10 @@ body, h1, h2, h3, p, ul {
     margin-bottom: 2rem;
   }
   
+  .header-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 2rem;
+  }
+  
